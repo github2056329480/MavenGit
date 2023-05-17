@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("主分支添加");
         System.out.println("分支添加");
         System.out.println("在线添加");
+        System.out.println("成员2添加数据");
     }
 }
