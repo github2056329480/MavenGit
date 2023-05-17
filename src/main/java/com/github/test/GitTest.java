@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("再次测试分支dev");
         System.out.println("主分支添加");
         System.out.println("分支添加");
+        System.out.println("在线添加");
     }
 }
